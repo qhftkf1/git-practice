@@ -1,2 +1,1 @@
-dev파일입니다. 
-conflict-1 다녀감.
+conflict1입니다.
